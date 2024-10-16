@@ -1,2 +1,3 @@
-Flask
-SPARQLWrapper
+flask
+sparqlwrapper
+gunicorn
