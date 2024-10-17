@@ -5,7 +5,7 @@
 **Traduc Ivoir'** est un outil en version bêta, développé et géré par l'équipe de développeurs de la communauté [Wikimedia Côte d'Ivoire](https://wikimedia.ci/).  
 Il facilite la traduction des articles Wikipédia liés à la Côte d'Ivoire, de l'anglais, de l'allemand, de l'espagnol, de l'arabe et de l'italien vers le français.
 
-## Déployer et tester l'outil GAWA en local
+## Déployer et tester l'outil Traduc Ivoir' en local
 
 ### 1. Préparer l'environnement local
 
