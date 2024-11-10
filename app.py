@@ -26,6 +26,7 @@ def build_query():
         OPTIONAL { ?article_es schema:about ?item; schema:isPartOf <https://es.wikipedia.org/>. }
         OPTIONAL { ?article_ar schema:about ?item; schema:isPartOf <https://ar.wikipedia.org/>. }
         OPTIONAL { ?article_it schema:about ?item; schema:isPartOf <https://it.wikipedia.org/>. }
+        OPTIONAL { ?article_it schema:about ?item; schema:isPartOf <https://ceb.wikipedia.org/>. }
 
         FILTER NOT EXISTS { ?article_fr schema:about ?item; schema:isPartOf <https://fr.wikipedia.org/>. }
 
